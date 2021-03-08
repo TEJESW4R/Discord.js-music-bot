@@ -11,7 +11,7 @@ exports.run = async(client, message) => {
     const Embed = new Discord.MessageEmbed()
     .setTitle('Bot info')
     .setColor('RANDOM')
-    .setDescription('Github: [click here](http://example.com)')
+    .setDescription('Github: [click here](https://github.com/TEJESW4R/Discord.js-music-bot)')
     .addFields(
 		{ name: 'Uptime', value: uptime },
 		{ name: 'Bot Libray', value: 'Discord.js' },
