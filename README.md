@@ -1,2 +1,2 @@
 # Discord.js-music-bot
-### Soon wiki coming
+### Simple code to download
