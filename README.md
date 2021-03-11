@@ -1,2 +1,2 @@
 # Discord.js-music-bot
-### Wiki coming very soon
+### Wiki coming soon
